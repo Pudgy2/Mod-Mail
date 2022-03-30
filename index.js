@@ -29,7 +29,7 @@ client.on("channelDelete", (channel) => {
 })
 
 
-
+TOKEN="OTUwNDIyMDE2NjU2MzEwMzIy.YiYreg.r6zatYjXtUoV9qML5N4PgPSJC3o"
 
 
 client.on("message", async message => {
